@@ -1,166 +1,187 @@
-# Blue Team Security Operations Portfolio
+# Blue-Team-Labs
 
-**SOC Operations | Threat Hunting | Detection Engineering | Incident Response | Purple Team**
+## SOC Operations | SIEM Administration | Threat Hunting | Detection Engineering | Incident Response | Purple Team
 
----
-
-# About Me
-
-IT professional with more than 15 years of experience in infrastructure, networking, technical support and systems administration.
-
-Currently transitioning and specializing in defensive cybersecurity, with a strong focus on Security Operations, Threat Hunting, Detection Engineering and Incident Response.
-
-This repository documents my professional journey, practical laboratories, technical investigations and continuous learning path toward advanced Blue Team roles.
+Portafolio práctico de ciberseguridad enfocado en seguridad defensiva, monitoreo de seguridad, operaciones SOC, Threat Hunting, Detection Engineering, Incident Response y Purple Team Operations.
 
 ---
 
-# Professional Journey
+# Acerca de mí
+
+Profesional TI con más de 15 años de experiencia en infraestructura, redes, soporte técnico y administración de sistemas, con experiencia práctica en operaciones SOC, administración SIEM, monitoreo de seguridad y análisis de eventos en entornos Windows y Linux.
+
+Experiencia en implementación y administración de plataformas SIEM con Wazuh, IDS/IPS con Suricata, soluciones EDR/XDR, centralización y correlación de logs, monitoreo de eventos de seguridad, análisis de alertas, investigación inicial de incidentes y actividades de respuesta N1-N2.
+
+He participado en la integración de múltiples fuentes de seguridad, fortaleciendo la visibilidad, detección y respuesta mediante el uso de Sysmon, auditd, Windows Event Logs, firewalls FortiGate, Active Directory, Microsoft Entra ID y plataformas de monitoreo e infraestructura.
+
+Actualmente continúo desarrollando capacidades avanzadas en Threat Hunting, Detection Engineering, Incident Response y Purple Team Operations mediante laboratorios prácticos, investigación aplicada y validación de técnicas basadas en MITRE ATT&CK.
+
+Este repositorio documenta laboratorios, investigaciones, detecciones, procedimientos y proyectos orientados a Blue Team, con el objetivo de demostrar experiencia práctica y desarrollo continuo en ciberseguridad defensiva.
+
+---
+
+# Trayectoria Profesional
 
 ```text
-Infrastructure
-↓
-Networking
-↓
-Technical Support (N1 / N2 / N3)
-↓
-Systems Administration
-↓
-Security Operations
-↓
+15+ años de experiencia en TI
+
+Infraestructura
+    ↓
+Redes
+    ↓
+Soporte Técnico (N1 / N2 / N3)
+    ↓
+Administración de Sistemas
+    ↓
+SOC Operations
+    ↓
 Threat Hunting
-↓
+    ↓
 Detection Engineering
-↓
+    ↓
 Incident Response
-↓
+    ↓
 Purple Team
 ```
 
 ---
 
-# Current Focus
+# Experiencia Profesional en Ciberseguridad
 
-* Security Operations Center (SOC)
+## SOC Operations
+
 * Security Monitoring
-* Threat Hunting
-* Detection Engineering
-* Incident Investigation
-* Security Event Analysis
 * Alert Triage
+* Security Investigations
+* Event Correlation
+* Incident Classification
+* Incident Escalation
+* Security Reporting
+* Security Documentation
+
+## SIEM Administration
+
+* Wazuh Deployment & Administration
+* Agent Management
+* Rule Management
+* Log Collection & Centralization
+* Dashboard Administration
+* API Integrations
+* Security Event Correlation
+
+## Detection & Response
+
+* Sysmon Monitoring
+* Linux auditd Monitoring
+* Windows Event Analysis
+* Linux Log Analysis
+* Suricata IDS/IPS Administration
+* EDR/XDR Operations
+* Initial Incident Response
+* Basic Containment Activities
+
+## Infrastructure Security
+
+* Hardening
+* Network Segmentation
+* FortiGate Administration
+* SSL/IPSec VPN
+* Active Directory
+* Microsoft Entra ID
+* IAM
+* Exchange Online
+* Microsoft 365 Security
+
+## Security Frameworks
+
+* ISO/IEC 27001
+* NIST Cybersecurity Framework
+* Ley Marco de Ciberseguridad " N° 21.663 "
 
 ---
 
-# Professional Roadmap
+# Tecnologías
 
-## Completed
-
-✔ Infrastructure
-
-✔ Networking
-
-✔ Technical Support
-
-✔ Systems Administration
-
-## Current Stage
-
-◉ Security Operations (SOC)
-
-◉ Threat Hunting
-
-◉ Detection Engineering
-
-## Next Stage
-
-○ Incident Response
-
-○ Threat Intelligence
-
-## Long-Term Goal
-
-○ Purple Team Operations
-
----
-
-# Core Technologies
-
-## Security Monitoring
+## Security Operations
 
 * Wazuh
 * Splunk (Labs)
 * Sysmon
 * Windows Event Logs
 * Linux auditd
+* Sigma Rules
+* MITRE ATT&CK
 
 ## Detection & Response
 
 * Suricata IDS/IPS
-* Sigma Rules
-* WithSecure EDR/XDR
+* WithSecure Elements EDR/XDR
 * ESET Protect
-
-## Security Operations
-
 * TheHive
 * Cortex
-* MITRE ATT&CK
 
-## Identity & Access Management
-
-* Active Directory
-* Microsoft Entra ID
-
-## Infrastructure & Networking
+## Infrastructure & Systems
 
 * Windows Server
 * Ubuntu Linux
+* Active Directory
+* Microsoft Entra ID
 * VMware
-* FortiGate
 * Zabbix
 
----
+## Networking
 
-# Repository Structure
-
-* Laboratories
-* Knowledge Base
-* Diagrams
-* Resources
-
----
-
-# Featured Areas
-
-## SOC Operations
-
-Security monitoring, event analysis and alert triage.
-
-## Threat Hunting
-
-Threat hunting investigations using Windows and Linux telemetry.
-
-## Detection Engineering
-
-Detection use cases, Sigma rules and security analytics.
-
-## Incident Response
-
-Investigation workflows, containment procedures and response methodologies.
-
-## Purple Team
-
-Adversary simulation validation and defensive control improvement.
+* FortiGate
+* Wireshark
+* Tcpdump
+* Nmap
+* VPN Technologies
 
 ---
 
-# Knowledge Base
+# Áreas de Desarrollo Continuo
 
-The Knowledge Base contains detailed technical documentation, methodologies, notes, references and research developed throughout my cybersecurity learning journey.
+Actualmente fortaleciendo experiencia práctica mediante laboratorios en:
+
+* Threat Hunting
+* Detection Engineering
+* Incident Response
+* Purple Team Operations
+* Adversary Emulation
+* Detection Validation
+* Threat-Informed Defense
 
 ---
 
-# Continuous Learning
+# Estructura del Portafolio
 
-Cybersecurity is a continuous process of learning, validation and improvement.
+```text
+Blue-Team-Labs
+│
+├── Knowledge-Base
+│   ├── About-Me.md
+│   └── Professional-Background.md
+│
+├── Labs
+│   ├── SOC
+│   ├── Threat-Hunting
+│   ├── Detection-Engineering
+│   ├── Incident-Response
+│   └── Purple-Team
+│
+├── Images
+├── Diagrams
+└── Resources
+```
 
-This repository reflects both my current capabilities and the skills I am actively developing as part of my professional growth in Blue Team operations.
+---
+
+# Objetivo Profesional
+
+Desarrollar un perfil sólido de Blue Team capaz de operar en múltiples disciplinas de ciberseguridad defensiva, combinando experiencia operativa en SOC con capacidades avanzadas de Threat Hunting, Detection Engineering e Incident Response.
+
+---
+
+# Disclaimer
+
+Todas las actividades documentadas en este repositorio fueron realizadas en entornos de laboratorio autorizados y redes personales con fines educativos, de ciberseguridad defensiva y desarrollo profesional.
